@@ -1,16 +1,12 @@
-## LoginManager-FaceMask-Detection
+# Login-Manager-FaceMaksDetection-LogX
 This is the Readme file of LOGX
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
-
-## General info
-This project is a contactless attendace system based on native python (KivyMD), the database used is MySQL.
 
 ## General Information
 - Amid the second wave of corona pandemic, we feel it's our moral duty, as engineers, to develop some solutions which can help the community out there. So we came up with this Face 
@@ -24,8 +20,6 @@ Project is created with:
 * Tensorflow (Keras)
 * KivyMD
 * MySQL
-
-# Login-Manager-FaceMaksDetection-LogX
 
 ## Setup
 This project is built on python==3.8 version. This whole program requiered KivyMD, Tensorflow, Keras, MySQL. Some more python libraries like pyqrcode, date time, matplotlib etc. are requiered for completing the task. All these can be installed easily form terminal. The whole project was created on VScode. 
